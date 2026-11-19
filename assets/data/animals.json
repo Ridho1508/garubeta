@@ -1,0 +1,55 @@
+{
+  "title": "Hewan",
+  "questions": [
+    {
+      "id": "hewan_01",
+      "text": "Mana yang kucing?",
+      "correct": "kucing",
+      "choices": [
+        { "id": "kucing", "label": "Kucing", "image": "assets/images/kucing.png" },
+        { "id": "anjing", "label": "Anjing", "image": "assets/images/anjing.png" },
+        { "id": "sapi", "label": "Sapi", "image": "assets/images/sapi.png" }
+      ]
+    },
+    {
+      "id": "hewan_02",
+      "text": "Mana yang anjing?",
+      "correct": "anjing",
+      "choices": [
+        { "id": "anjing", "label": "Anjing", "image": "assets/images/anjing.png" },
+        { "id": "ayam", "label": "Ayam", "image": "assets/images/ayam.png" },
+        { "id": "bebek", "label": "Bebek", "image": "assets/images/bebek.png" }
+      ]
+    },
+    {
+      "id": "hewan_03",
+      "text": "Mana yang sapi?",
+      "correct": "sapi",
+      "choices": [
+        { "id": "sapi", "label": "Sapi", "image": "assets/images/sapi.png" },
+        { "id": "kucing", "label": "Kucing", "image": "assets/images/kucing.png" },
+        { "id": "bebek", "label": "Bebek", "image": "assets/images/bebek.png" }
+      ]
+    },
+    {
+      "id": "hewan_04",
+      "text": "Mana yang ayam?",
+      "correct": "ayam",
+      "choices": [
+        { "id": "ayam", "label": "Ayam", "image": "assets/images/ayam.png" },
+        { "id": "sapi", "label": "Sapi", "image": "assets/images/sapi.png" },
+        { "id": "anjing", "label": "Anjing", "image": "assets/images/anjing.png" }
+      ]
+    },
+    {
+      "id": "hewan_05",
+      "text": "Mana yang bebek?",
+      "correct": "bebek",
+      "choices": [
+        { "id": "bebek", "label": "Bebek", "image": "assets/images/bebek.png" },
+        { "id": "ayam", "label": "Ayam", "image": "assets/images/ayam.png" },
+        { "id": "kucing", "label": "Kucing", "image": "assets/images/kucing.png" }
+      ]
+    }
+  ]
+}
